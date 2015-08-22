@@ -1,6 +1,0 @@
-nome = raw_input("Qual e o seu nome?")
-missão = raw_input("Qual e sua missao?")
-cor = raw_input("Qual e sua cor favorita?")
-
-print "Ah, entao seu nome e %s, sua missao e %s, " \
-"e sua cor favorita e %s." % (joao, evoluir, red)
